@@ -1,0 +1,22 @@
+/home/alex/Área de Trabalho/Curso Asp NET CORE/AspnCore2Empty/bin/Debug/netcoreapp2.0/AspnCore2Empty.deps.json
+/home/alex/Área de Trabalho/Curso Asp NET CORE/AspnCore2Empty/bin/Debug/netcoreapp2.0/AspnCore2Empty.runtimeconfig.json
+/home/alex/Área de Trabalho/Curso Asp NET CORE/AspnCore2Empty/bin/Debug/netcoreapp2.0/AspnCore2Empty.runtimeconfig.dev.json
+/home/alex/Área de Trabalho/Curso Asp NET CORE/AspnCore2Empty/bin/Debug/netcoreapp2.0/AspnCore2Empty.dll
+/home/alex/Área de Trabalho/Curso Asp NET CORE/AspnCore2Empty/bin/Debug/netcoreapp2.0/AspnCore2Empty.pdb
+/home/alex/Área de Trabalho/Curso Asp NET CORE/AspnCore2Empty/obj/Debug/netcoreapp2.0/AspnCore2Empty.csproj.CoreCompileInputs.cache
+/home/alex/Área de Trabalho/Curso Asp NET CORE/AspnCore2Empty/obj/Debug/netcoreapp2.0/AspnCore2Empty.AssemblyInfoInputs.cache
+/home/alex/Área de Trabalho/Curso Asp NET CORE/AspnCore2Empty/obj/Debug/netcoreapp2.0/AspnCore2Empty.AssemblyInfo.cs
+/home/alex/Área de Trabalho/Curso Asp NET CORE/AspnCore2Empty/obj/Debug/netcoreapp2.0/AspnCore2Empty.dll
+/home/alex/Área de Trabalho/Curso Asp NET CORE/AspnCore2Empty/obj/Debug/netcoreapp2.0/AspnCore2Empty.pdb
+/home/alex/Área de Trabalho/Curso Asp NET CORE/AspnCore2Empty/obj/Debug/netcoreapp2.0/AspnCore2Empty.csprojResolveAssemblyReference.cache
+C:\Users\alexs\Cursos\Curso Asp NET CORE\AspnCore2Empty\bin\Debug\netcoreapp2.0\AspnCore2Empty.deps.json
+C:\Users\alexs\Cursos\Curso Asp NET CORE\AspnCore2Empty\bin\Debug\netcoreapp2.0\AspnCore2Empty.runtimeconfig.json
+C:\Users\alexs\Cursos\Curso Asp NET CORE\AspnCore2Empty\bin\Debug\netcoreapp2.0\AspnCore2Empty.runtimeconfig.dev.json
+C:\Users\alexs\Cursos\Curso Asp NET CORE\AspnCore2Empty\bin\Debug\netcoreapp2.0\AspnCore2Empty.dll
+C:\Users\alexs\Cursos\Curso Asp NET CORE\AspnCore2Empty\bin\Debug\netcoreapp2.0\AspnCore2Empty.pdb
+C:\Users\alexs\Cursos\Curso Asp NET CORE\AspnCore2Empty\obj\Debug\netcoreapp2.0\AspnCore2Empty.csprojAssemblyReference.cache
+C:\Users\alexs\Cursos\Curso Asp NET CORE\AspnCore2Empty\obj\Debug\netcoreapp2.0\AspnCore2Empty.csproj.CoreCompileInputs.cache
+C:\Users\alexs\Cursos\Curso Asp NET CORE\AspnCore2Empty\obj\Debug\netcoreapp2.0\AspnCore2Empty.AssemblyInfoInputs.cache
+C:\Users\alexs\Cursos\Curso Asp NET CORE\AspnCore2Empty\obj\Debug\netcoreapp2.0\AspnCore2Empty.AssemblyInfo.cs
+C:\Users\alexs\Cursos\Curso Asp NET CORE\AspnCore2Empty\obj\Debug\netcoreapp2.0\AspnCore2Empty.dll
+C:\Users\alexs\Cursos\Curso Asp NET CORE\AspnCore2Empty\obj\Debug\netcoreapp2.0\AspnCore2Empty.pdb
